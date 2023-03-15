@@ -13,7 +13,7 @@ public class Lab {
      * @param b a true/false value.
      * @return if b is true, return true. if b is false, return false.
      */
-    public boolean returnBoolean(boolean b){if(b == true){return true;}
+    public boolean returnBoolean(boolean b){if(b == true){return true; }
         return false;
     }
 
